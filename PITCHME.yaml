@@ -1,0 +1,21 @@
+theme: moon
+# background: assets/bg.jpg
+# background-size: cover
+
+# logo: assets/img/logo.png
+
+highlight: monokai
+
+slide-number: true
+
+# footnote: "© 2017 Sudharshan Ravindran"
+
+# mathjax: TeX-MML-AM_HTMLorMML-full
+
+vertical-center: true
+
+theme-override: assets/css/main.css
+
+transition: concave
+
+mousewheel: true
