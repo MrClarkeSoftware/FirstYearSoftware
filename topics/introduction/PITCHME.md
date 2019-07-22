@@ -1,8 +1,8 @@
 Introduction
 
 +++
-
-![Suddi](assets/img/mrclarke.jpg)
+About me:
+![Mr. Clarke](assets/img/mrclarke.jpg)
 
 <div class="align-points">
 	<i class="fa fa-user"></i> Mr. Clarke<br/>
